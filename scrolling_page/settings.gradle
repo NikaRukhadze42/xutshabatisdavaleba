@@ -1,0 +1,2 @@
+rootProject.name='scrolling_page'
+include ':app'
